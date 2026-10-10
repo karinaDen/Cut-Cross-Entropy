@@ -1,0 +1,44 @@
+[
+ {
+  "dtype": "float32",
+  "variant": "CCE без фильтрации",
+  "loss_abs_err": 0.0,
+  "dE_max_err": 9.89530235528946e-10,
+  "dC_max_err": 3.4924596548080444e-09
+ },
+ {
+  "dtype": "float32",
+  "variant": "CCE + фильтрация",
+  "loss_abs_err": 0.0,
+  "dE_max_err": 9.89530235528946e-10,
+  "dC_max_err": 3.4924596548080444e-09
+ },
+ {
+  "dtype": "float32",
+  "variant": "CCE + фильтрация + сортировка",
+  "loss_abs_err": 0.0,
+  "dE_max_err": 1.3387762010097504e-09,
+  "dC_max_err": 3.4924596548080444e-09
+ },
+ {
+  "dtype": "float64",
+  "variant": "CCE без фильтрации",
+  "loss_abs_err": 0.0,
+  "dE_max_err": 2.168404344971009e-18,
+  "dC_max_err": 7.37257477290143e-18
+ },
+ {
+  "dtype": "float64",
+  "variant": "CCE + фильтрация",
+  "loss_abs_err": 0.0,
+  "dE_max_err": 2.168404344971009e-18,
+  "dC_max_err": 7.37257477290143e-18
+ },
+ {
+  "dtype": "float64",
+  "variant": "CCE + фильтрация + сортировка",
+  "loss_abs_err": 0.0,
+  "dE_max_err": 2.710505431213761e-18,
+  "dC_max_err": 7.37257477290143e-18
+ }
+]
